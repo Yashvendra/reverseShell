@@ -1,8 +1,8 @@
 # reverseShell
 This is a program in which a 
-**server**(or the attacker)
+**server** (or the attacker)
 gains a shell of
-**client**(or the victim)
+**client** (or the victim)
 to which it is connected to.
 
 ## Usage
