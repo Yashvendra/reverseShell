@@ -47,7 +47,7 @@ void chat(){
 			error("Error on reading");
 		}
 		
-		if (strncmp("curr", buffer, 4) == 0)	{
+		if (strncmp("pwd", buffer, 3) == 0)	{
 			if(getcwd(buffer, sizeof(buffer)) != NULL){
 			write(sockfd, buffer, strlen(buffer));
 		 }								
@@ -59,7 +59,7 @@ void chat(){
 			break;
 			
 		}
-		else if(strncmp("who", buffer, 3) == 0){
+		else if(strncmp("whois", buffer, 5) == 0){
 			if(getenv("USER") !=NULL)
    			write(sockfd,getenv("USER"), strlen(getenv("USER")));
 		}
