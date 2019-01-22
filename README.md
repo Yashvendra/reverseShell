@@ -25,3 +25,6 @@ Now you should have a prompt on server machine.
 ## Demo
 ![Alt Text](https://github.com/Yashvendra/reverseShell/blob/master/Demo/video-gif.gif)
 
+## License
+MIT © y_k_007
+
