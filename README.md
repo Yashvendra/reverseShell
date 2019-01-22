@@ -14,7 +14,7 @@ On your machine setup a server and start listening on a port.
 ./attacker 1234
 ```
 
-### 2. Execute client script and setup a connection to the server
+### 2. Execute client script on target and setup a connection to the server
 You can do this by simply executing the target compiled file
 
 ```
