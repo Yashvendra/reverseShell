@@ -1,9 +1,9 @@
 # reverseShell
-This is a program in which a 
+Scripts of C which after compiling can be used by an 
 **Attacker** 
-gains a shell of
+to gain a shell of
 **Target** 
-to which it is connected to.
+machine.
 
 ## Usage
 ### 1. Setup a server and listen for incoming connections.
