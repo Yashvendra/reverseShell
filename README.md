@@ -1,4 +1,7 @@
 # reverseShell
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Ultimate-Facebook-Scraper.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Yashvendra/reverseShell/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=green&colorB=black	)](#)
+
 👨‍💻 Script in C which after compiling can be used by an 
 **Attacker** 
 to gain a shell of
