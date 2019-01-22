@@ -1,5 +1,5 @@
 # reverseShell
-Scripts in C which after compiling can be used by an 
+👨‍💻 Script in C which after compiling can be used by an 
 **Attacker** 
 to gain a shell of
 **Target** 
