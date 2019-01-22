@@ -6,7 +6,7 @@ to gain a shell of
 machine.
 
 ## Usage
-Firstly, you should compile the above C programs. In my case I compiled it using `g++` compiler and gave the output files name as `attacker` and `target` respectively.
+Firstly, you should compile the above C programs. In my case I used `g++` compiler and gave the output files name as `attacker` and `target` respectively.
 ### 1. Setup a server and listen for incoming connections.
 On your machine setup a server and start listening on a port.
 
