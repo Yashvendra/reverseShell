@@ -1,5 +1,5 @@
 # reverseShell
-[![GitHub Issues]](https://www.github.com/Yashvendra/reverseShell/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Yashvendra/reverseShell.svg?label=Issues)](https://www.github.com/Yashvendra/reverseShell/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=blue&colorB=black	)](#)
 
 👨‍💻 Script in C which after compiling can be used by an 
