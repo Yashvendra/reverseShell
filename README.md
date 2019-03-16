@@ -32,6 +32,3 @@ Now you should have gained a shell on the server machine.
 ## License
 MIT © y_k_007
 
-## Author
-If you liked the project then kindly support it by giving it a star ⭐!
-
